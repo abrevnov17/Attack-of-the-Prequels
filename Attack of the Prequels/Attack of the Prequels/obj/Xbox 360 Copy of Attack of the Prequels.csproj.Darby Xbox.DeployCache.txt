@@ -1,0 +1,125 @@
+8d0c4602a4af49a8bcb5c8c010c7cb42
+0
+Darby Xbox
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\
+131040003880000000
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\GameThumbnail.png
+2011-09-01T17:17:24.0000000Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Attack of the Prequels.exe
+2016-05-25T16:12:40.8437418Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\ALUMINUM_0.xnb
+2016-04-21T16:11:45.0296728Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\ALUM_8L2_0.xnb
+2016-04-21T16:11:45.3884735Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\background.xnb
+2016-04-29T15:51:33.9896641Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\background2.xnb
+2016-04-29T15:51:41.8921161Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\crosshairs.xnb
+2016-04-21T16:11:40.7552653Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\Darth-Vader-icon.xnb
+2016-04-29T15:51:44.7752810Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\deathStar.xnb
+2016-04-25T15:52:45.3795457Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\deathStar3.xnb
+2016-04-25T16:03:36.9829574Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\endScreen.jpg.xnb
+2016-04-21T16:11:36.6212581Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\endScreenWin.xnb
+2016-04-21T16:11:38.1812608Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\ENGINE2_0.xnb
+2016-04-21T16:12:25.5718457Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\ENGINE_0.xnb
+2016-04-21T16:12:26.2114468Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\executor.xnb
+2016-04-25T15:36:38.3062323Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\Explo5a (mp3cut.net).xnb
+2016-04-29T15:52:31.9229777Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\Explo5a.xnb
+2016-04-29T15:52:59.5945604Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\final5.xnb
+2016-04-21T16:12:16.6180298Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\finalFighter.xnb
+2016-04-21T16:12:12.2294220Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\finalSkySphere3.xnb
+2016-04-21T16:12:14.2106255Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\finalSphere4.xnb
+2016-04-21T16:12:16.3216293Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\FRC_0.xnb
+2016-04-21T16:12:24.7918443Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\gunship2.xnb
+2016-04-29T15:52:09.5596986Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\John Williams2.wma
+2016-04-29T16:05:38.7435557Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\John Williams2.xnb
+2016-04-29T16:05:38.7905584Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\LAATmap1_0.xnb
+2016-04-29T15:52:21.3003701Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\LASER_0.xnb
+2016-04-21T16:12:26.2738469Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\lazer.xnb
+2016-04-21T16:11:41.6756669Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\Map__19_Mix_0.xnb
+2016-04-25T16:03:37.1729603Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\Map__24_Mix_0.xnb
+2016-04-25T16:03:37.3554631Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\missileBasic1.xnb
+2016-04-21T16:12:12.7286229Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\missileBasic2.xnb
+2016-04-21T16:12:13.3058239Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\missileBasic3.xnb
+2016-04-21T16:12:13.8674249Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\officialSkySphereFinal.xnb
+2016-04-21T16:12:16.4776295Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\pauseScreen.xnb
+2016-04-21T16:11:40.7396653Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\pistol-1 (mp3cut.net).xnb
+2016-04-29T15:52:31.6479620Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\PLATEOX2_0.xnb
+2016-04-21T16:12:24.9946447Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\reducedFighter.xnb
+2016-04-21T16:11:41.4572666Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\reducedTradeFederation2.xnb
+2016-04-21T16:11:44.6552722Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\space2texture_0.xnb
+2016-04-21T16:12:15.3076275Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\SpriteFont1.xnb
+2016-04-21T16:12:29.8175532Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\Star Wars Epic Music Mix (Medley).wma
+2016-04-29T15:52:47.0718442Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\Star Wars Epic Music Mix (Medley).xnb
+2016-04-29T15:52:47.1788503Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\startingScreen.xnb
+2016-04-21T16:11:39.6320634Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\strikeBack8.xnb
+2016-05-12T16:06:35.6812251Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\tie2.xnb
+2016-04-29T15:52:26.5496704Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\tie3.xnb
+2016-04-29T15:52:31.5469562Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\tradaFedaerationCruiser.xnb
+2016-04-21T16:12:07.5506134Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\turret-1 (mp3cut.net).xnb
+2016-04-29T15:52:31.7269665Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\WINGBACK_0.xnb
+2016-04-21T16:12:25.7434460Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\WINGDOWN_0.xnb
+2016-04-21T16:12:25.9462464Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\WINGFRON_0.xnb
+2016-04-21T16:12:25.6966459Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\WINGTOP_0.xnb
+2016-04-21T16:12:26.1022466Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\XSIDE_0.xnb
+2016-04-21T16:12:25.2442451Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\XWBACK_0.xnb
+2016-04-21T16:12:26.3855472Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\XWDOWN_0.xnb
+2016-04-21T16:12:25.4314455Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\xwingfinal.xnb
+2016-04-21T16:12:24.6826441Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\xwingfinal2.xnb
+2016-04-21T16:12:29.7239530Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\XWTOP_0.xnb
+2016-04-21T16:12:25.3534453Z
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Debug\Content\yale8_0.xnb
+2016-04-21T16:12:20.7832371Z

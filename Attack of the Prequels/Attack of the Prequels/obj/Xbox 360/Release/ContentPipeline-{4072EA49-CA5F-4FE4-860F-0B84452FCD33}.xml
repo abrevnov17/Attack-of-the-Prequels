@@ -1,0 +1,990 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>endScreen.jpg.png</Source>
+      <Name>endScreen.jpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\endScreen.jpg.xnb</Output>
+      <Time>2016-03-16T21:31:19.2735567-02:00</Time>
+    </Item>
+    <Item>
+      <Source>endScreenWin.png</Source>
+      <Name>endScreenWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\endScreenWin.xnb</Output>
+      <Time>2016-03-16T21:31:19.2735567-02:00</Time>
+    </Item>
+    <Item>
+      <Source>startingScreen.png</Source>
+      <Name>startingScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\startingScreen.xnb</Output>
+      <Time>2016-03-16T21:31:19.2735567-02:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseScreen.png</Source>
+      <Name>pauseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\pauseScreen.xnb</Output>
+      <Time>2016-03-17T13:44:14.8841323-02:00</Time>
+    </Item>
+    <Item>
+      <Source>crosshairs.png</Source>
+      <Name>crosshairs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\crosshairs.xnb</Output>
+      <Time>2016-04-04T14:53:32.4046605-01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\background.xnb</Output>
+      <Time>2016-04-28T21:12:56.5745225-01:00</Time>
+    </Item>
+    <Item>
+      <Source>background2.jpg</Source>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\background2.xnb</Output>
+      <Time>2016-04-28T21:12:56.5845226-01:00</Time>
+    </Item>
+    <Item>
+      <Source>Darth-Vader-icon.png</Source>
+      <Name>Darth-Vader-icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Darth-Vader-icon.xnb</Output>
+      <Time>2016-04-29T14:40:27.5765475-01:00</Time>
+    </Item>
+    <Item>
+      <Source>crosshairs2.png</Source>
+      <Name>crosshairs2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\crosshairs2.xnb</Output>
+      <Time>2016-05-31T00:58:21.9207383-01:00</Time>
+    </Item>
+    <Item>
+      <Source>reducedFighter.fbx</Source>
+      <Name>reducedFighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\reducedFighter.xnb</Output>
+      <Time>2016-03-17T22:41:42.3782596-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\reducedFighter_0.xml</Key>
+        <Value>2016-05-31T14:58:40.7833613-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>lazer.fbx</Source>
+      <Name>lazer</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\lazer.xnb</Output>
+      <Time>2016-03-17T22:43:31.6555099-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\lazer_0.xml</Key>
+        <Value>2016-05-31T14:58:41.0017617-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>reducedTradeFederation2.fbx</Source>
+      <Name>reducedTradeFederation2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\reducedTradeFederation2.xnb</Output>
+      <Time>2016-03-17T23:41:42.9478247-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\reducedTradeFederation2_0.xml</Key>
+        <Value>2016-05-31T14:58:42.0625635-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ALUMINUM_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ALUM_8L2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tradaFedaerationCruiser.fbx</Source>
+      <Name>tradaFedaerationCruiser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\tradaFedaerationCruiser.xnb</Output>
+      <Time>2016-03-20T14:09:01.9458854-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\tradaFedaerationCruiser_0.xml</Key>
+        <Value>2016-05-31T14:58:49.8157772-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ALUMINUM_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ALUM_8L2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>finalFighter.fbx</Source>
+      <Name>finalFighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\finalFighter.xnb</Output>
+      <Time>2016-03-20T14:09:08.7092722-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\finalFighter_0.xml</Key>
+        <Value>2016-05-31T14:59:03.6374014-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>missileBasic1.fbx</Source>
+      <Name>missileBasic1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\missileBasic1.xnb</Output>
+      <Time>2016-03-20T14:36:52.4397188-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileBasic1_0.xml</Key>
+        <Value>2016-05-31T14:59:06.5234065-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>missileBasic2.fbx</Source>
+      <Name>missileBasic2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\missileBasic2.xnb</Output>
+      <Time>2016-03-20T14:39:46.3351954-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileBasic2_0.xml</Key>
+        <Value>2016-05-31T14:59:07.0226074-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>missileBasic3.fbx</Source>
+      <Name>missileBasic3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\missileBasic3.xnb</Output>
+      <Time>2016-03-20T14:42:02.476128-02:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileBasic3_0.xml</Key>
+        <Value>2016-05-31T14:59:07.4906082-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>finalSkySphere3.fbx</Source>
+      <Name>finalSkySphere3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\finalSkySphere3.xnb</Output>
+      <Time>2016-04-14T14:51:39.1063798-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\finalSkySphere3_0.xml</Key>
+        <Value>2016-05-31T14:59:07.9287094-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\space2texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>finalSphere4.fbx</Source>
+      <Name>finalSphere4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\finalSphere4.xnb</Output>
+      <Time>2016-04-14T15:04:24.8807856-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\finalSphere4_0.xml</Key>
+        <Value>2016-05-31T14:59:09.8319128-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\space2texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>officialSkySphereFinal.fbx</Source>
+      <Name>officialSkySphereFinal</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\officialSkySphereFinal.xnb</Output>
+      <Time>2016-04-14T17:56:03.1023239-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\officialSkySphereFinal_0.xml</Key>
+        <Value>2016-05-31T14:59:10.518314-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\space2texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>final5.fbx</Source>
+      <Name>final5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\final5.xnb</Output>
+      <Time>2016-04-14T18:11:05.1241129-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\final5_0.xml</Key>
+        <Value>2016-05-31T14:59:10.7523144-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\yale8_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>xwingfinal.fbx</Source>
+      <Name>xwingfinal</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\xwingfinal.xnb</Output>
+      <Time>2016-04-19T21:49:55.4187805-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\xwingfinal_0.xml</Key>
+        <Value>2016-05-31T14:59:18.7184294-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\FRC_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\PLATEOX2_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XSIDE_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWTOP_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWDOWN_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ENGINE2_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGFRON_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGBACK_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGDOWN_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGTOP_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ENGINE_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\LASER_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWBACK_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>xwingfinal2.fbx</Source>
+      <Name>xwingfinal2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\xwingfinal2.xnb</Output>
+      <Time>2016-04-19T22:00:43.4902116-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\xwingfinal2_0.xml</Key>
+        <Value>2016-05-31T14:59:24.4592394-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\FRC_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\PLATEOX2_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XSIDE_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWTOP_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWDOWN_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ENGINE2_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGFRON_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGBACK_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGDOWN_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGTOP_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ENGINE_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\LASER_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWBACK_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>executor.fbx</Source>
+      <Name>executor</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\executor.xnb</Output>
+      <Time>2016-04-25T14:35:55.3837773-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\executor_0.xml</Key>
+        <Value>2016-05-31T14:59:31.4636517-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>deathStar.fbx</Source>
+      <Name>deathStar</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\deathStar.xnb</Output>
+      <Time>2016-04-25T14:51:59.0088935-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\deathStar_0.xml</Key>
+        <Value>2016-05-31T14:59:35.7068592-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>deathStar3.fbx</Source>
+      <Name>deathStar3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\deathStar3.xnb</Output>
+      <Time>2016-04-25T15:02:50.1576908-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\deathStar3_0.xml</Key>
+        <Value>2016-05-31T14:59:42.3106709-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Map__19_Mix_0.xnb</Request>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Map__24_Mix_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>gunship2.fbx</Source>
+      <Name>gunship2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\gunship2.xnb</Output>
+      <Time>2016-04-28T15:04:38.3657745-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\gunship2_0.xml</Key>
+        <Value>2016-05-31T15:00:03.8075086-01:00</Value>
+      </Dependency>
+      <Request>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\LAATmap1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tie2.fbx</Source>
+      <Name>tie2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\tie2.xnb</Output>
+      <Time>2016-04-28T17:10:07.1957867-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\tie2_0.xml</Key>
+        <Value>2016-05-31T15:00:34.8578637-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>tie3.fbx</Source>
+      <Name>tie3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\tie3.xnb</Output>
+      <Time>2016-04-28T17:27:56.0207161-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\tie3_0.xml</Key>
+        <Value>2016-05-31T15:00:41.0510745-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>strikeBack8.fbx</Source>
+      <Name>strikeBack8</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\strikeBack8.xnb</Output>
+      <Time>2016-05-12T14:55:45.2378139-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\strikeBack8_0.xml</Key>
+        <Value>2016-05-31T15:00:52.6156949-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>missileFinal.fbx</Source>
+      <Name>missileFinal</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\missileFinal.xnb</Output>
+      <Time>2016-05-31T01:38:43.0912214-01:00</Time>
+      <Dependency>
+        <Key>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileFinal_0.xml</Key>
+        <Value>2016-05-31T15:00:56.2817014-01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\SpriteFont1.xnb</Output>
+      <Time>2016-04-05T15:41:00.0423884-01:00</Time>
+    </Item>
+    <Item>
+      <Source>pistol-1 (mp3cut.net).mp3</Source>
+      <Name>pistol-1 (mp3cut.net)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\pistol-1 (mp3cut.net).xnb</Output>
+      <Time>2016-04-28T19:50:52.6294013-01:00</Time>
+    </Item>
+    <Item>
+      <Source>turret-1 (mp3cut.net).mp3</Source>
+      <Name>turret-1 (mp3cut.net)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\turret-1 (mp3cut.net).xnb</Output>
+      <Time>2016-04-28T19:58:49.5540732-01:00</Time>
+    </Item>
+    <Item>
+      <Source>Explo5a (mp3cut.net).mp3</Source>
+      <Name>Explo5a (mp3cut.net)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Explo5a (mp3cut.net).xnb</Output>
+      <Time>2016-04-28T20:33:42.5933458-01:00</Time>
+    </Item>
+    <Item>
+      <Source>Star Wars Epic Music Mix (Medley).mp3</Source>
+      <Name>Star Wars Epic Music Mix (Medley)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Star Wars Epic Music Mix (Medley).xnb</Output>
+      <Extra>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Star Wars Epic Music Mix (Medley).wma</Extra>
+      <Time>2016-04-28T21:05:35.1114154-01:00</Time>
+    </Item>
+    <Item>
+      <Source>John Williams2.mp3</Source>
+      <Name>John Williams2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\John Williams2.xnb</Output>
+      <Extra>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\John Williams2.wma</Extra>
+      <Time>2016-04-29T15:05:13.2454452-01:00</Time>
+    </Item>
+    <Item>
+      <Source>Explo5a.WAV</Source>
+      <Name>Explo5a</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Explo5a.xnb</Output>
+      <Time>2016-04-28T20:33:54.6649322-01:00</Time>
+    </Item>
+    <Item>
+      <Source>reducedFighter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\reducedFighter_0.xml</Output>
+      <Time>2016-03-17T22:41:42.3782596-02:00</Time>
+    </Item>
+    <Item>
+      <Source>lazer.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\lazer_0.xml</Output>
+      <Time>2016-03-17T22:43:31.6555099-02:00</Time>
+    </Item>
+    <Item>
+      <Source>reducedTradeFederation2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\reducedTradeFederation2_0.xml</Output>
+      <Time>2016-03-17T23:41:42.9478247-02:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\dcs2(3DS)\ALUMINUM.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ALUMINUM_0.xnb</Output>
+      <Time>2016-03-17T23:38:46.5527355-02:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\dcs2(3DS)\ALUM_8L2.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ALUM_8L2_0.xnb</Output>
+      <Time>2016-03-17T23:36:54.7213391-02:00</Time>
+    </Item>
+    <Item>
+      <Source>tradaFedaerationCruiser.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\tradaFedaerationCruiser_0.xml</Output>
+      <Time>2016-03-20T14:09:01.9458854-02:00</Time>
+    </Item>
+    <Item>
+      <Source>finalFighter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\finalFighter_0.xml</Output>
+      <Time>2016-03-20T14:09:08.7092722-02:00</Time>
+    </Item>
+    <Item>
+      <Source>missileBasic1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileBasic1_0.xml</Output>
+      <Time>2016-03-20T14:36:52.4397188-02:00</Time>
+    </Item>
+    <Item>
+      <Source>missileBasic2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileBasic2_0.xml</Output>
+      <Time>2016-03-20T14:39:46.3351954-02:00</Time>
+    </Item>
+    <Item>
+      <Source>missileBasic3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileBasic3_0.xml</Output>
+      <Time>2016-03-20T14:42:02.476128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>finalSkySphere3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\finalSkySphere3_0.xml</Output>
+      <Time>2016-04-14T14:51:39.1063798-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Desktop\space2texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\space2texture_0.xnb</Output>
+      <Time>2016-04-14T14:52:27.4821467-01:00</Time>
+    </Item>
+    <Item>
+      <Source>finalSphere4.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\finalSphere4_0.xml</Output>
+      <Time>2016-04-14T15:04:24.8807856-01:00</Time>
+    </Item>
+    <Item>
+      <Source>officialSkySphereFinal.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\officialSkySphereFinal_0.xml</Output>
+      <Time>2016-04-14T17:56:03.1023239-01:00</Time>
+    </Item>
+    <Item>
+      <Source>final5.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\final5_0.xml</Output>
+      <Time>2016-04-14T18:11:05.1241129-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Desktop\yale8.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\yale8_0.xnb</Output>
+      <Time>2016-04-14T18:10:16.2019966-01:00</Time>
+    </Item>
+    <Item>
+      <Source>xwingfinal.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\xwingfinal_0.xml</Output>
+      <Time>2016-04-19T21:49:55.4187805-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\FRC.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\FRC_0.xnb</Output>
+      <Time>2016-04-19T21:23:45.5225493-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\PLATEOX2.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\PLATEOX2_0.xnb</Output>
+      <Time>2016-04-19T21:41:04.4360769-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\XSIDE.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XSIDE_0.xnb</Output>
+      <Time>2016-04-19T21:41:29.3686052-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\XWTOP.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWTOP_0.xnb</Output>
+      <Time>2016-04-19T21:42:20.7367093-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\XWDOWN.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWDOWN_0.xnb</Output>
+      <Time>2016-04-19T21:41:53.3530905-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\ENGINE2.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ENGINE2_0.xnb</Output>
+      <Time>2016-04-19T21:23:45.4925476-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\WINGFRON.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGFRON_0.xnb</Output>
+      <Time>2016-04-19T21:40:23.6545048-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\WINGBACK.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGBACK_0.xnb</Output>
+      <Time>2016-04-19T21:41:42.5938517-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\WINGDOWN.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGDOWN_0.xnb</Output>
+      <Time>2016-04-19T21:41:16.9803202-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\WINGTOP.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\WINGTOP_0.xnb</Output>
+      <Time>2016-04-19T21:40:38.8377734-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\ENGINE.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\ENGINE_0.xnb</Output>
+      <Time>2016-04-19T21:23:45.4545454-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\LASER.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\LASER_0.xnb</Output>
+      <Time>2016-04-19T21:23:45.7665633-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\onxsyl14y4n4-xwing\XWBACK.TGA</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\XWBACK_0.xnb</Output>
+      <Time>2016-04-19T21:42:07.7113381-01:00</Time>
+    </Item>
+    <Item>
+      <Source>xwingfinal2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\xwingfinal2_0.xml</Output>
+      <Time>2016-04-19T22:00:43.4902116-01:00</Time>
+    </Item>
+    <Item>
+      <Source>executor.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\executor_0.xml</Output>
+      <Time>2016-04-25T14:35:55.3837773-01:00</Time>
+    </Item>
+    <Item>
+      <Source>deathStar.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\deathStar_0.xml</Output>
+      <Time>2016-04-25T14:51:59.0088935-01:00</Time>
+    </Item>
+    <Item>
+      <Source>deathStar3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\deathStar3_0.xml</Output>
+      <Time>2016-04-25T15:02:50.1576908-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\DeathStar\maps\Map__19_Mix.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Map__19_Mix_0.xnb</Output>
+      <Time>2008-07-04T01:52:06-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\DeathStar\maps\Map__24_Mix.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\Map__24_Mix_0.xnb</Output>
+      <Time>2008-07-04T01:52:20-01:00</Time>
+    </Item>
+    <Item>
+      <Source>gunship2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\gunship2_0.xml</Output>
+      <Time>2016-04-28T15:04:38.3657745-01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\abrevnov17\Downloads\republicgunship(3DS)\LAATmap1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\LAATmap1_0.xnb</Output>
+      <Time>2016-04-28T15:03:06.6104392-01:00</Time>
+    </Item>
+    <Item>
+      <Source>tie2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\tie2_0.xml</Output>
+      <Time>2016-04-28T17:10:07.1957867-01:00</Time>
+    </Item>
+    <Item>
+      <Source>tie3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\tie3_0.xml</Output>
+      <Time>2016-04-28T17:27:56.0207161-01:00</Time>
+    </Item>
+    <Item>
+      <Source>strikeBack8.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\strikeBack8_0.xml</Output>
+      <Time>2016-05-12T14:55:45.2378139-01:00</Time>
+    </Item>
+    <Item>
+      <Source>missileFinal.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\missileFinal_0.xml</Output>
+      <Time>2016-05-31T01:38:43.0912214-01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4072EA49-CA5F-4FE4-860F-0B84452FCD33}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the PrequelsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\obj\Xbox 360\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the Prequels\bin\Xbox 360\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-16T20:29:45.2985438-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,2 @@
+C:\Users\csstudent\Documents\Visual Studio 2010\Projects\Attack of the Prequels\Attack of the Prequels\Attack of the PrequelsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abrevnov17\Google Drive\AI and Game Design\Attack of the Prequels\Attack of the Prequels\Attack of the PrequelsContent\obj\x86\Debug\Attack of the PrequelsContent.contentprojResolveAssemblyReference.cache
